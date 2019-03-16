@@ -1,0 +1,7 @@
+<!--pages/map/map.wxml-->
+<text>pages/map/map.wxml</text>
+<view>
+  <map></map>
+  <button bindtap='dedao'>地理位置</button>
+</view>
+
